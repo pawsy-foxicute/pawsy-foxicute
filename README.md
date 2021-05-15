@@ -13,6 +13,9 @@
 --->
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula"/>
+  <div>
+    <p>👋 Hi, I’m @pawsy-foxicute</p>
+  </div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=pawsy-foxicute&theme=dracula"/>
 </p>
 
