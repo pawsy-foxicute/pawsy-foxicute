@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=pawsy-foxicute)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=pawsy-foxicutef&repo=pawsy-foxicute&countColorcountColor&countColor=%237B1E7A)
 - 👋 Hi, I’m @pawsy-foxicute
 - 👀 I’m interested in Java, Spring, Linux, CI/CD
 - 🌱 I’m currently learning Docker-Compose, Trevis CI, algorithms
