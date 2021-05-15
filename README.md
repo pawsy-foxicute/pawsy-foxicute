@@ -12,8 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 --->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pawsy-foxicute&theme=dracula"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=pawsy-foxicute&theme=dracula"/>
 </p>
 
 
