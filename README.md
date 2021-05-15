@@ -20,7 +20,7 @@
     <p>📫 How to reach me? Just write on email wily.mister.fox@gmail.com</p>
   </div>
   </br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=pawsy-foxicute&theme=dracula"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=pawsy-foxicute&theme=dracula"/>
 </p>
 
 <!---
