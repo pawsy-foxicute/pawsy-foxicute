@@ -1,5 +1,6 @@
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=pawsy-foxicutef&repo=pawsy-foxicute&countColorcountColor&countColor=%237B1E7A)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawsy-foxicute)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 - 👋 Hi, I’m @pawsy-foxicute
 - 👀 I’m interested in Java, Spring, Linux, CI/CD
 - 🌱 I’m currently learning Docker-Compose, Trevis CI, algorithms
