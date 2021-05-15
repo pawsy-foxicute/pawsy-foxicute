@@ -13,7 +13,7 @@
 --->
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula"/>
-  <div align="center" style="width:50%">
+  <div align="center" style="width:20%">
     <p>👋 Hi, I’m @pawsy-foxicute</p>
     <p>👀 I’m interested in Java, Spring, Linux, CI/CD</p>
     <p>🌱 I’m currently learning Docker-Compose, Trevis CI, algorithms</p>
