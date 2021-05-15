@@ -15,16 +15,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula"/>
   <div>
     <p>👋 Hi, I’m @pawsy-foxicute</p>
+    <p>👀 I’m interested in Java, Spring, Linux, CI/CD</p>
+    <p>🌱 I’m currently learning Docker-Compose, Trevis CI, algorithms</p>
+    <p>📫 How to reach me? Just write on email wily.mister.fox@gmail.com</p>
   </div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=pawsy-foxicute&theme=dracula"/>
 </p>
-
-
-
-- 👋 Hi, I’m @pawsy-foxicute
-- 👀 I’m interested in Java, Spring, Linux, CI/CD
-- 🌱 I’m currently learning Docker-Compose, Trevis CI, algorithms
-- 📫 How to reach me? Just write on email wily.mister.fox@gmail.com
 
 <!---
 pawsy-foxicute/pawsy-foxicute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
