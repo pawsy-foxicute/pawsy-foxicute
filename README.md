@@ -13,13 +13,14 @@
 --->
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula"/>
-  <div align="center" style="width:20%">
+  <div align="right" style="width:20%">
     <p>👋 Hi, I’m @pawsy-foxicute</p>
     <p>👀 I’m interested in Java, Spring, Linux, CI/CD</p>
     <p>🌱 I’m currently learning Docker-Compose, Trevis CI, algorithms</p>
     <p>📫 How to reach me? Just write on email wily.mister.fox@gmail.com</p>
   </div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=pawsy-foxicute&theme=dracula"/>
+  </br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=pawsy-foxicute&theme=dracula"/>
 </p>
 
 <!---
