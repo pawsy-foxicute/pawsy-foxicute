@@ -11,6 +11,8 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=pawsy-foxicute&theme=dracula"/>
+</p>
 </p>
 
 
