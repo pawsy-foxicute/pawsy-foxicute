@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=pawsy-foxicute)
 - 👋 Hi, I’m @pawsy-foxicute
 - 👀 I’m interested in Java, Spring, Linux, CI/CD
 - 🌱 I’m currently learning Docker-Compose, Trevis CI, algorithms
