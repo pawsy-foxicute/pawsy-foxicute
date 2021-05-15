@@ -5,7 +5,9 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 <img alt="TravisCI" src="https://img.shields.io/badge/travisci-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>  
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawsy-foxicute&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @pawsy-foxicute
 - 👀 I’m interested in Java, Spring, Linux, CI/CD
