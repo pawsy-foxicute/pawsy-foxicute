@@ -24,13 +24,13 @@
 ### 🧰 Технологический стек
 
 ```text
-Языки         — Java, Groovy, Bash
-CI/CD         — Jenkins, GitLab CI
-Контейнеры    — Docker, Kubernetes
-IaC           — Terraform, Ansible, Helm
-Наблюдаемость — Grafana
-Артефакты     — Nexus, Harbor, Artifactory
-Базы данных   — PostgreSQL, Elasticsearch, Cassandra
+Языки          — Java, Groovy, Bash
+CI/CD          — Jenkins, GitLab CI
+Контейнеры     — Docker, Kubernetes
+IaC            — Terraform, Ansible, Helm
+Мониторинг     — Grafana
+Артефакты      — Nexus, Harbor, Artifactory
+Базы данных    — PostgreSQL, Elasticsearch, Cassandra
 Инфраструктура — Linux, Ceph, VMware
 ```
 
