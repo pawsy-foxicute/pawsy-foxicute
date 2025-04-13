@@ -38,15 +38,32 @@ IaC           — Terraform, Ansible, Helm
 
 ### 📊 GitHub Статистика
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula&layout=compact&langs_count=8&hide=css,scss,html"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pawsy-foxicute&theme=dracula&show_icons=true&hide=contribs"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=pawsy-foxicute&theme=dracula"/>
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=pawsy-foxicute&theme=dracula"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=pawsy-foxicute&theme=dracula&show_icons=true&hide=contribs"/>
+      <br/>
+      <sub><em>Общая активность, звёзды, коммиты, проекты</em></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula&layout=compact&langs_count=8&hide=css,scss,html"/>
+      <br/>
+      <sub><em>Наиболее используемые языки</em></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=pawsy-foxicute&theme=dracula"/>
+      <br/>
+      <sub><em>Текущая серия коммитов</em></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawsy-foxicute&theme=dracula"/>
+      <br/>
+      <sub><em>График активности за последние месяцы</em></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
