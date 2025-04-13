@@ -65,6 +65,12 @@ IaC           — Terraform, Ansible, Helm
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+  <br/>
+  <sub><em>Анимация: змея, ползущая по коммитам</em></sub>
+</p>
+
 ---
 
 ### 📬 Контакты
