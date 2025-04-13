@@ -16,8 +16,8 @@
 ### 🧬 Обо мне
 
 💼 **Опыт**: DevOps-инженер, более 3 лет в продакшене.  
-🚀 Работа: https://career.habr.com/fenix-felicis
-🎨 Дополнительно: увлекаюсь **3D-моделированием**, Maya 3D + Zbrush.
+🚀 Работа: [Мой профиль на Habr Career](https://career.habr.com/fenix-felicis)  
+🎨 Дополнительно: увлекаюсь **3D-моделированием** (Maya, Zbrush).  
 
 ---
 
@@ -39,16 +39,21 @@ IaC           — Terraform, Ansible, Helm
 ### 📊 GitHub Статистика
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula&layout=compact"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pawsy-foxicute&theme=dracula&show_icons=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsy-foxicute&theme=dracula&layout=compact&langs_count=8&hide=css,scss,html"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pawsy-foxicute&theme=dracula&show_icons=true&hide=contribs"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=pawsy-foxicute&theme=dracula"/>
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=pawsy-foxicute&theme=dracula"/>
 </p>
 
 ---
 
 ### 📬 Контакты
 
-- 📧 Почта: [fenix.felicia.mine@gmail.com](mailto:fenix.felicia.mine@gmail.com)
-- 🦊 Art & 3D-портфолио (скоро)
+- 📧 Почта: [fenix.felicia.mine@gmail.com](mailto:fenix.felicia.mine@gmail.com)  
+- 🦊 Art & 3D-портфолио — *скоро будет доступно*
 
 ---
 
